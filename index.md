@@ -19,7 +19,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 ### Task List (Homework)
 
-- [x] Start HW6 (SE)
+- [ ] Finish HW6 (SE)
 - [ ]	Start Final Project DB?
 - [ ]	Start HW4 (OS)
 - [ ]	Start HW8 (SE)
