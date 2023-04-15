@@ -16,3 +16,8 @@ This sample heading uses 3 '#'
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+### Task List (Homework)
+- [x] Start HW6 (SE)
+- [ ]	Start Final Project DB?
+- [ ]	Start HW4 (OS)
